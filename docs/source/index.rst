@@ -1,7 +1,7 @@
 Welcome to the Project Repository For The PicUNO
 ===================================
 
-**PicUNO** (/Pic*uno/) is a board mad eby AtrivaTECH!
+**PicUNO** (/Pic*uno/) is a board made by AtrivaTECH!
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
